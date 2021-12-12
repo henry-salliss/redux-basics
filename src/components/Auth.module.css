@@ -27,3 +27,12 @@
   padding: 0.25rem;
   border: 1px solid #ccc;
 }
+
+.disabled {
+  cursor: not-allowed;
+  background-color: #616161;
+}
+
+.error-text {
+  color: red;
+}
